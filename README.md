@@ -1,39 +1,76 @@
-<h1 align="left">Nyumbani </h1>
+<h1 align="left">Nyumbani</h1>
 
-###
+<p align="left"><i><b>Nyumbani</b> (Suaíli), significa "lar" ou "casa" e pode ser usado também como "terra natal".</i></p>
 
-<p align="left"> Nyumbani (Suaíli), significa "lar" ou "casa" e pode ser usado também como "terra natal"</p>
+---
 
-###
+## Identificação
 
-<h2 align="left">Sobre o projeto</h2>
+- **Identidade Visual:** *(em desenvolvimento)*
+- **Organização da Equipe:** Ambos os participantes atuarão em todas as demandas. Se necessário, haverá divisão de tarefas.
+- **Data de Início:** 26/03/2025 – Primeira reunião com os orientadores
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br><b>Organização da Equipe:</b> Ambos os participantes da equipe irão atuar nas demandas necessárias, se necessário divisão seria possível ...<br><b>Data:</b> 26/03/2025 iniciou-se com a primeira reunião com os orientadores</p>
+## Introdução
 
-###
+- **Descrição:**  
+  Nyumbani é uma plataforma web que exibe, em um mapa interativo, informações sobre comunidades quilombolas da Região Metropolitana de Curitiba, promovendo sua memória e visibilidade.
 
-<h2 align="left">I code with</h2>
+- **Público-alvo:**  
+  Estudantes, pesquisadores, educadores, membros de comunidades quilombolas e demais interessados no tema.
 
-###
+- **Objetivo do Projeto:**  
+  Mapear e organizar informações sobre comunidades quilombolas em uma plataforma digital acessível, promovendo sua visibilidade e preservação.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+## Escopo
+
+- **Descrição do Produto (MVP):**  
+  Site com mapa interativo da Região Metropolitana de Curitiba, exibindo pontos relacionados a comunidades quilombolas, com título, descrição e mídias (imagens, vídeos ou áudios).
+
+- **Principais Entregas:**  
+  - Interface web adaptada a diferentes dispositivos  
+  - Mapa interativo com pontos informativos  
+  - Sistema de cadastro e exibição de histórias  
+  - Destaque visual para pontos de resistência cultural  
+  - Tela de login para inserção de dados 
+
+- **Critérios de Aceite:**
+
+  **Qualitativos:**
+  - Interface intuitiva e fácil de navegar  
+  - Informações organizadas, relevantes e claras  
+  - Compatível com múltiplos dispositivos e navegadores
+
+  **Quantitativos:**
+  - Mapa e dados carregando em até 5 segundos  
+  - 100% dos pontos com título, descrição e mídia  
+  - Suporte a vários usuários simultaneamente sem perda de desempenho
+
+---
+
+## Matriz de Riscos
+
+### Risco 1 – Falha na integração do mapa interativo
+
+| Descrição | Probabilidade | Impacto | Plano de Resposta | Status |
+|----------|---------------|---------|--------------------|--------|
+| Dificuldades técnicas na implementação do mapa e seus pontos informativos | Média | Alto | Utilizar bibliotecas confiáveis, realizar testes frequentes e buscar suporte técnico | Em desenvolvimento |
+
+---
+
+### Risco 2 – Baixo desempenho com acessos simultâneos
+
+| Descrição | Probabilidade | Impacto | Plano de Resposta | Status |
+|----------|---------------|---------|--------------------|--------|
+| Lentidão no sistema com muitos acessos simultâneos | Média | Alto | Otimizar código, utilizar cache e realizar testes de carga | Em análise |
+
+---
+
+### Risco 3 – Pouca adesão dos usuários
+
+| Descrição | Probabilidade | Impacto | Plano de Resposta | Status |
+|----------|---------------|---------|--------------------|--------|
+| Risco de o público não se interessar pelo sistema | Média | Médio | Divulgação, interface atrativa e facilidade de uso | Em planejamento |
