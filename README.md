@@ -7,6 +7,7 @@
 ## Identificação
 
 - **Identidade Visual:** *(em desenvolvimento)*
+- **Link Quant-UX:** https://app.quant-ux.com/#/test.html?h=a2aa10aa1AGmUrKvwsKzMNPYyyR8uRLtp8ke3GSHLuXXeb3VyQymDXm2iWBa&ln=en 
 - **Organização da Equipe:** Ambos os participantes atuarão em todas as demandas. Se necessário, haverá divisão de tarefas.
 - **Data de Início:** 26/03/2025 – Primeira reunião com os orientadores
 
